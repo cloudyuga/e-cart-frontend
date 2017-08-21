@@ -1,5 +1,4 @@
 flask
-configobj
 passlib
 Flask-WTF
 requests
